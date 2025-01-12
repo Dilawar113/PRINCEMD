@@ -32,14 +32,14 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumberCode = "" //Example: +923092668108
+global.botNumberCode = "+923172149013" //Example: +923172149013
 global.confirmCode = "" 
 
 
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
+//💌global.pairingNumber = "+923172149013" //put your bot number here💌
 global.mods = ['923092668108'] 
 global.prems = ['923092668108']
 global.allowed = ['923092668108']
